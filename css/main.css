@@ -1815,7 +1815,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb420;
+  background: #a77d74;
 }
 .feed-link,
 .chat {
@@ -2868,10 +2868,26 @@ body {
   background-attachment: fixed;
   background-position: 50% 50%;
 }
-.main-inner {
-  margin-top: 60px;
-  padding: 60px 60px 60px 60px;
-  background: #fff;
+.menu {
+  margin-top: 20px;
+  padding-left: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 530px;
+  border-radius: initial;
   opacity: 0.8;
-  min-height: 500px;
+}
+a:hover {
+  color: #17d3e8;
+}
+.content-wrap {
+  opacity: 0.7;
+  color: #000;
+}
+.site-description {
+  color: #000;
+}
+.site-description {
+  color: #000;
 }
